@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Repositorio-snowzin\\.NET_Fundamentals\\MyProject\\Fundamentals\\Fundamentals\\Fundamentals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Repositorio-snowzin\\.NET_Fundamentals\\MyProject\\Fundamentals\\Fundamentals\\Fundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Windows\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Repositorio-snowzin\\.NET_Fundamentals\\MyProject\\Fundamentals\\Fundamentals\\Fundamentals.csproj",
+        "projectName": "Fundamentals",
+        "projectPath": "C:\\Repositorio-snowzin\\.NET_Fundamentals\\MyProject\\Fundamentals\\Fundamentals\\Fundamentals.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Repositorio-snowzin\\.NET_Fundamentals\\MyProject\\Fundamentals\\Fundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
