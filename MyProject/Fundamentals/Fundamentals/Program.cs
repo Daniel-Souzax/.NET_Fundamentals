@@ -6,12 +6,11 @@ class Program
     static void Main()
     {
 
-        int? idade = null;
-        
-        int minhaIdade = idade.Value;
+        var operacoesMatematicas = new OperacoesMatematicas();
 
-        Console.WriteLine(minhaIdade);
-        
+        operacoesMatematicas.Teste(valor1:1, valor2:2);
+        operacoesMatematicas.Teste(valor1: 1);
+
 
     }
 }
