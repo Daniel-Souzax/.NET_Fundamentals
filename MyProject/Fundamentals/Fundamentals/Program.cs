@@ -2,15 +2,21 @@
 
 class Program
 {   
-
     static void Main()
     {
+        int numero = 10;
 
-        var operacoesMatematicas = new OperacoesMatematicas();
+        var carro = new Carro
+        {
+            Modelo = "ka",
+            LancadoEm = new DateOnly(2005, 01, 01),
+            Cor = Cor.Prata
 
-        operacoesMatematicas.Teste(valor1:1, valor2:2);
-        operacoesMatematicas.Teste(valor1: 1);
+        };
 
+        carro.NomeDoModelo();
+
+        Console.WriteLine("oi");
 
     }
 }
