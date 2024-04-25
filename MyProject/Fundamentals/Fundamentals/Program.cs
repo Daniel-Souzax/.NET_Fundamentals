@@ -1,22 +1,22 @@
 ﻿namespace Fundamentals;
 
 class Program
-{   
+{
+
     static void Main()
     {
-        int numero = 10;
+        var numero = 10;
 
-        var carro = new Carro
+        do
         {
-            Modelo = "ka",
-            LancadoEm = new DateOnly(2005, 01, 01),
-            Cor = Cor.Prata
+            Console.WriteLine("Teste");
 
-        };
+            numero++;
+        }
+        while (numero < 10);
+        
 
-        carro.NomeDoModelo();
-
-        Console.WriteLine("oi");
-
+        Console.WriteLine("Saiu");
     }
 }
+
